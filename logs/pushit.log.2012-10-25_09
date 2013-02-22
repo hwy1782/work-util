@@ -1,0 +1,72 @@
+[WARN] [Component Resolve Thread] 10-25 09:33:53,064 [common] - 服务器已启动：12201
+[WARN] [Component Resolve Thread] 10-25 09:33:53,187 [hsf] - HSF Version: 1.4.8
+g.springframework.context.support.ClassPathXmlApplicationContext@451ef443: display name [org.springframework.context.support.ClassPathXmlApplicationContext@451ef443]; startup date [Thu Oct 25 09:33:53 CST 2012]; root of context hierarchy
+[INFO] [main] 10-25 09:33:53,235 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:33:53,331 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@451ef443]: org.springframework.beans.factory.support.DefaultListableBeanFactory@5fa80aea
+[INFO] [main] 10-25 09:33:53,351 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5fa80aea: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:34:52,125 [common] - 服务器已启动：12201
+[INFO] [main] 10-25 09:34:52,207 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@784a7df6: display name [org.springframework.context.support.ClassPathXmlApplicationContext@784a7df6]; startup date [Thu Oct 25 09:34:52 CST 2012]; root of context hierarchy
+[INFO] [main] 10-25 09:34:52,258 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[WARN] [Component Resolve Thread] 10-25 09:34:52,273 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:34:52,354 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@784a7df6]: org.springframework.beans.factory.support.DefaultListableBeanFactory@6bdc64a5
+[INFO] [main] 10-25 09:34:52,361 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6bdc64a5: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:35:02,841 [common] - 服务器已启动：12201
+[INFO] [main] 10-25 09:35:02,978 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6446d228: display name [org.springframework.context.support.ClassPathXmlApplicationContext@6446d228]; startup date [Thu Oct 25 09:35:02 CST 2012]; root of context hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:35:03,009 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:35:03,036 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:35:03,135 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@6446d228]: org.springframework.beans.factory.support.DefaultListableBeanFactory@7966340c
+[INFO] [main] 10-25 09:35:03,142 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7966340c: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:35:24,331 [common] - 服务器已启动：12201
+[INFO] [main] 10-25 09:35:24,424 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@53797795: display name [org.springframework.context.support.ClassPathXmlApplicationContext@53797795]; startup date [Thu Oct 25 09:35:24 CST 2012]; root of context hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:35:24,462 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:35:24,481 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:35:24,577 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@53797795]: org.springframework.beans.factory.support.DefaultListableBeanFactory@6bdc64a5
+[INFO] [main] 10-25 09:35:24,585 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6bdc64a5: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:40:40,383 [common] - 服务器已启动：12201
+[INFO] [main] 10-25 09:40:40,495 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2ed7b7d9: display name [org.springframework.context.support.ClassPathXmlApplicationContext@2ed7b7d9]; startup date [Thu Oct 25 09:40:40 CST 2012]; root of context hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:40:40,546 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:40:40,536 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:40:40,682 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@2ed7b7d9]: org.springframework.beans.factory.support.DefaultListableBeanFactory@6bdc64a5
+[INFO] [main] 10-25 09:40:40,703 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6bdc64a5: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:41:46,657 [common] - 服务器已启动：12201
+[INFO] [main] 10-25 09:41:46,765 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6446d228: display name [org.springframework.context.support.ClassPathXmlApplicationContext@6446d228]; startup date [Thu Oct 25 09:41:46 CST 2012]; root of context hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:41:46,795 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:41:46,838 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:41:46,948 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@6446d228]: org.springframework.beans.factory.support.DefaultListableBeanFactory@7966340c
+[INFO] [main] 10-25 09:41:46,957 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7966340c: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:41:56,799 [common] - 服务器已启动：12201
+[WARN] [Component Resolve Thread] 10-25 09:41:57,028 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:41:57,057 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4a57ea52: display name [org.springframework.context.support.ClassPathXmlApplicationContext@4a57ea52]; startup date [Thu Oct 25 09:41:57 CST 2012]; root of context hierarchy
+[INFO] [main] 10-25 09:41:57,096 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:41:57,199 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@4a57ea52]: org.springframework.beans.factory.support.DefaultListableBeanFactory@307bd0d
+[INFO] [main] 10-25 09:41:57,207 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@307bd0d: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:43:11,302 [common] - 服务器已启动：12201
+[INFO] [main] 10-25 09:43:11,408 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6446d228: display name [org.springframework.context.support.ClassPathXmlApplicationContext@6446d228]; startup date [Thu Oct 25 09:43:11 CST 2012]; root of context hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:43:11,432 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:43:11,460 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:43:11,526 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@6446d228]: org.springframework.beans.factory.support.DefaultListableBeanFactory@7966340c
+[INFO] [main] 10-25 09:43:11,533 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7966340c: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:43:34,054 [common] - 服务器已启动：12201
+[INFO] [main] 10-25 09:43:34,167 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@56acdd02: display name [org.springframework.context.support.ClassPathXmlApplicationContext@56acdd02]; startup date [Thu Oct 25 09:43:34 CST 2012]; root of context hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:43:34,215 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:43:34,221 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:43:34,352 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@56acdd02]: org.springframework.beans.factory.support.DefaultListableBeanFactory@6bdc64a5
+[INFO] [main] 10-25 09:43:34,360 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6bdc64a5: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:50:57,207 [common] - 服务器已启动：12201
+[INFO] [main] 10-25 09:50:57,311 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1af0b4a3: display name [org.springframework.context.support.ClassPathXmlApplicationContext@1af0b4a3]; startup date [Thu Oct 25 09:50:57 CST 2012]; root of context hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:50:57,338 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:50:57,363 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:50:57,478 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@1af0b4a3]: org.springframework.beans.factory.support.DefaultListableBeanFactory@1164b9b6
+[INFO] [main] 10-25 09:50:57,488 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1164b9b6: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:51:13,170 [common] - 服务器已启动：12201
+[INFO] [main] 10-25 09:51:13,276 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@195428dd: display name [org.springframework.context.support.ClassPathXmlApplicationContext@195428dd]; startup date [Thu Oct 25 09:51:13 CST 2012]; root of context hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:51:13,300 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:51:13,328 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:51:13,395 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@195428dd]: org.springframework.beans.factory.support.DefaultListableBeanFactory@5253c3f5
+[INFO] [main] 10-25 09:51:13,403 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5253c3f5: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:52:13,479 [common] - 服务器已启动：12201
+[INFO] [main] 10-25 09:52:13,583 [ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1af0b4a3: display name [org.springframework.context.support.ClassPathXmlApplicationContext@1af0b4a3]; startup date [Thu Oct 25 09:52:13 CST 2012]; root of context hierarchy
+[WARN] [Component Resolve Thread] 10-25 09:52:13,618 [hsf] - HSF Version: 1.4.8
+[INFO] [main] 10-25 09:52:13,661 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-hsf-uic-consumer.xml]
+[INFO] [main] 10-25 09:52:13,771 [ClassPathXmlApplicationContext] - Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@1af0b4a3]: org.springframework.beans.factory.support.DefaultListableBeanFactory@1164b9b6
+[INFO] [main] 10-25 09:52:13,779 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1164b9b6: defining beans [uicReadService,c2bOperateService,c2bQueryService]; root of factory hierarchy
