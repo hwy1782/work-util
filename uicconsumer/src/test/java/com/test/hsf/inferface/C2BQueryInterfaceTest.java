@@ -1,4 +1,4 @@
-package com.test.uicconsumer;
+package com.test.hsf.inferface;
 
 import java.util.List;
 
@@ -22,7 +22,7 @@ public class C2BQueryInterfaceTest {
 		C2BQueryService c2bQueryService = (C2BQueryService) ctx	.getBean("c2bQueryService");
 		ServiceUtil.waitServiceReady(c2bQueryService);// 不是必须，因为运行很快，所以要在configServer推地址下来前检测地址是否推下來，可以自己sleep(500)
 		C2BReqQueryDO reqQuery = new C2BReqQueryDO();
-		reqQuery.setReqId(973L);
+		reqQuery.setReqId(918L);
 		ResultDO<List<C2BRequirementResultDO>> rsList = c2bQueryService.batchQueryRequirement(reqQuery);
 		
 		System.out.println(rsList.getModule().size());

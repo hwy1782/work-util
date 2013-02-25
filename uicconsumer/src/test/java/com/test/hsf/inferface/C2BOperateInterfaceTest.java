@@ -1,4 +1,4 @@
-package com.test.uicconsumer;
+package com.test.hsf.inferface;
 
 import org.junit.Test;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
